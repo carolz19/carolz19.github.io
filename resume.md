@@ -2,4 +2,4 @@
 layout: default
 ---
 
-[Contact me]<zhang.carol19@gmail.com> to view my resume or check out my LinkedIn.
+[Contact me](mailto:zhang.carol19@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) to view my resume or check out my LinkedIn.
