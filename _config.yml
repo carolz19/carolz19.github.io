@@ -19,7 +19,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -48,12 +48,12 @@ social_media:
   # website: http://your_website_url
   # youtube: your_username
 
-topics:
-  - name: Python
-    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png
+# topics:
+#   - name: Python
+#     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png
 
-  - name: Web design
-    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Responsive_Web_Design_Logo.svg/1024px-Responsive_Web_Design_Logo.svg.png
+#   - name: Web design
+#     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Responsive_Web_Design_Logo.svg/1024px-Responsive_Web_Design_Logo.svg.png
 
-  - name: Machine Learning
-    image_url: https://downloads.healthcatalyst.com/wp-content/uploads/2017/04/machine-learning-in-healthcare.jpg
+#   - name: Machine Learning
+#     image_url: https://downloads.healthcatalyst.com/wp-content/uploads/2017/04/machine-learning-in-healthcare.jpg
