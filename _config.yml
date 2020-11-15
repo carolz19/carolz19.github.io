@@ -3,6 +3,8 @@ layout: sidebar
 # layout: stacked
 style: dark
 
+# github: [metadata]
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
@@ -26,9 +28,9 @@ projects:
   limit: 6
   exclude:
     archived: true
-    forks: true
+    forks: false
     projects:
-    # - repo-name
+    repo-name: "go-anywhere"
 
 
 social_media:
@@ -48,6 +50,8 @@ social_media:
   # vk: your_username
   # website: http://your_website_url//
   # youtube: your_username
+
+# github: [metadata] 
 
 # topics:
 #   - name: Python
